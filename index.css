@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+    
+}
+body{
+    background-color: rgb(250, 234, 212);
+}
+h1{
+    position: relative;
+}
+form{
+    padding: 20px;
+    margin: 10px;  
+    display: flex;
+    width: 27%;
+    flex-direction: column;
+
+    background-color: rgb(163, 162, 159,.2); 
+
+}
+label,input{
+    margin: 10px 0px;
+    background: rgb(250, 235, 215,);
+  
+}
+button{
+    background-color: black;
+    color: aliceblue;
+}
+
